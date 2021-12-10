@@ -52,3 +52,7 @@ ol, ul {
 .bold {
   font-weight: bold;
 }
+
+.highlight {
+  background: #0f0;
+}
